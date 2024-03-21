@@ -16,3 +16,33 @@
   position:absolute;
   z-index:0;
 }
+#u1887_img {
+  border-width:0px;
+  position:absolute;
+  left:0px;
+  top:0px;
+  width:960px;
+  height:720px;
+}
+#u1887 {
+  border-width:0px;
+  position:absolute;
+  left:149px;
+  top:133px;
+  width:960px;
+  height:720px;
+  display:flex;
+}
+#u1887 .text {
+  position:absolute;
+  align-self:center;
+  padding:2px 2px 2px 2px;
+  box-sizing:border-box;
+  width:100%;
+}
+#u1887_text {
+  border-width:0px;
+  word-wrap:break-word;
+  text-transform:none;
+  visibility:hidden;
+}
